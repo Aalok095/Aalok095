@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=F7EE00&background=FFFFFF00&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Aalok+Pal;Mastering+the+art+of+problem-solving+%F0%9F%92%96;Aspiring+Software+Developer+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=F7EE00&background=FFFFFF00&width=435&lines=%F0%9F%91%8B+Hey+There+%2C+I'm+Aalok+Pal+!;Mastering+the+art+of+problem-solving+%F0%9F%92%96;Aspiring+Software+Developer+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 <a href="https://github.com/Aalok095">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
@@ -67,7 +67,9 @@ public class Aalok {
 
 <td width="60%" align="center" valign="middle">
 
-
+<div align="center">
+  <img src="./images/hero.gif" alt="My GIF">
+</div>
 
 </td>
 </tr>
@@ -116,8 +118,6 @@ public class Aalok {
 </a>
 
 </div>
-
----
 
 ---
 
