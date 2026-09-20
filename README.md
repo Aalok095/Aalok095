@@ -108,6 +108,13 @@ public class Aalok {
 </table>
 
 ---
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aalok095/Aalok095/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</div>
+
+---
 
 ## 📊 LeetCode & Coding Journey
 
@@ -140,16 +147,6 @@ public class Aalok {
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aalok095/Aalok095/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
