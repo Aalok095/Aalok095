@@ -107,7 +107,7 @@ public class Aalok {
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /><br>
-      Git • GitHub • VS Code • Postman <br>• Docker
+      Git • GitHub • VS Code <br> Postman • Docker
     </td>
   </tr>
 </table>
