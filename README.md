@@ -79,7 +79,8 @@ public class Aalok {
 
 ---
 
-
+<div align="center">
+  
 ## 🛠️ Tech Stack
 
 
@@ -93,38 +94,40 @@ public class Aalok {
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java,python,js,ts" /><br>
-      Java • Python • JavaScript • TypeScript
+      Java • Python • JavaScript <br>• TypeScript
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,html,css" /><br>
       React • Next.js • Node.js • Express<br>
-      Tailwind CSS • HTML • CSS
+      Tailwind CS • HTML • CSS
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>
-      MySQL • MongoDB
+      • MySQL<br> • MongoDB
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /><br>
-      Git • GitHub • VS Code<br>
-      Postman • Docker
+      Git • GitHub • VS Code • Postman <br>• Docker
     </td>
   </tr>
 </table>
 
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aalok095/Aalok095/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
 
 ---
 
-## 📊 LeetCode & Coding Journey
+<div align="center">
+
+## 🐍 Watch My Contributions Get Eaten!
+  <img src="https://raw.githubusercontent.com/Aalok095/Aalok095/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+  
+</div>
+
+---
 
 <div align="center">
+  
+## 📊 LeetCode & Coding Journey
 
 <a href="https://leetcode.com/">
   <img src="https://leetcard.jacoblin.cool/palaalok05?theme=dark&font=Fira%20Code&ext=contest" width="550"/>
@@ -134,9 +137,10 @@ public class Aalok {
 
 ---
 
-## 📈 GitHub Stats
 
 <div align="center">
+
+## 📈 GitHub Stats
 
 <table>
   <tr>
@@ -163,8 +167,8 @@ public class Aalok {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-*Keep building. Keep learning. Keep growing.* 🚀
-
-⭐ Thanks for visiting my profile!
+<div align="center">
+  <img src="./images/ThankYou_text.gif" alt="My GIF">
+</div>
 
 </div>
