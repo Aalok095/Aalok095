@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=F7EE00&background=FFFFFF00&width=435&lines=%F0%9F%91%8B+Hey+There+%2C+I'm+Aalok+Pal+!;Mastering+the+art+of+problem-solving+%F0%9F%92%96;Aspiring+Software+Developer+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
-<a href="https://github.com/Aalok095">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+<a href="mailto:aalokpal095@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/aalok-pal-75378b2a2/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
@@ -13,14 +13,11 @@
 <a href="https://leetcode.com/palaalok05">
   <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="https://www.instagram.com/aalok_0957/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 <a href="https://discord.com/users/aalok095">
   <img src="https://img.shields.io/badge/Discord-aalok095-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="mailto:aalokpal095@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.instagram.com/aalok_0957/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
@@ -75,14 +72,18 @@ public class Aalok {
 </tr>
 </table>
 
-- 🥰 Exploring new technologies and improving my development skills
-- 🎯 Working toward impactful projects and a career in tech
-- ⚡ Fun fact: I love gaming and traveling!
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Coiny&size=15&duration=3000&pause=1000&color=33F700&multiline=true&center=true&vCenter=true&width=550&height=70&lines=%F0%9F%A5%B0+Exploring+new+technologies+and+improving+my+development+skills;%F0%9F%8E%AF+Building+software+that+solves+real+problems.;%E2%9A%A1+Fun+fact%3A+I+love+gaming+and+traveling!)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 
 ## 🛠️ Tech Stack
+
 
 <table align="center">
   <tr>
@@ -93,21 +94,28 @@ public class Aalok {
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+      <img src="https://skillicons.dev/icons?i=java,python,js,ts" /><br>
+      Java • Python • JavaScript • TypeScript
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,html,css" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,html,css" /><br>
+      React • Next.js • Node.js • Express<br>
+      Tailwind CSS • HTML • CSS
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>
+      MySQL • MongoDB
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /><br>
+      Git • GitHub • VS Code<br>
+      Postman • Docker
     </td>
   </tr>
 </table>
 
 ---
+
 ## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
@@ -121,7 +129,7 @@ public class Aalok {
 <div align="center">
 
 <a href="https://leetcode.com/">
-  <img src="https://leetcard.jacoblin.cool/palaalok05?theme=dark&font=Fira%20Code&ext=contest" width="500" />
+  <img src="https://leetcard.jacoblin.cool/palaalok05?theme=dark&font=Fira%20Code&ext=contest" width="550"/>
 </a>
 
 </div>
