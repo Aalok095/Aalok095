@@ -31,9 +31,7 @@
 ---
 
 <div align="center">
-  <h1>
-    <span style="color:#4ab9e7;">About Me</span>
-  </h1>
+  <img src="./images/frogverbal-giphy.gif" alt="My GIF">
 </div>
 
 <table>
