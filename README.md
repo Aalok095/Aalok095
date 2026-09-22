@@ -97,17 +97,17 @@ public class Aalok {
       Java • Python • JavaScript <br>• TypeScript
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,html,css" /><br>
-      React • Next.js • Node.js • Express<br>
-      Tailwind CS • HTML • CSS
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,html,css,flask" /><br>
+      React • Next.js • Node.js • Express • Tailwind CSS <br>
+      HTML • CSS • Flask
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>
       • MySQL<br> • MongoDB
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /><br>
-      Git • GitHub • VS Code <br> Postman • Docker
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,postman,docker" /><br>
+      Git • GitHub • VS Code • Anaconda<br>Postman • Docker
     </td>
   </tr>
 </table>
